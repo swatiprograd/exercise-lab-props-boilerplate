@@ -21,7 +21,7 @@ function App() {
 
     {/* Uncomment the below line - once you edit Image.js component*/}
     
-    {/* <Image data={Data}></Image> */}
+    <Image data={Data}></Image>
   </div>
   );
 }
